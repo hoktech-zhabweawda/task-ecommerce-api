@@ -86,8 +86,8 @@ The API will be available at:
 
 ## 🔗 Repository Information
 
-- **GitHub**: `https://github.com/HokTechy/task-ecommerce-api`
-- **Clone**: `git clone https://github.com/HokTechy/task-ecommerce-api.git`
+- **GitHub**: `https://github.com/hoktech-zhabweawda/task-ecommerce-api`
+- **Clone**: `git clone https://github.com/hoktech-zhabweawda/task-ecommerce-api.git`
 - **Issues**: Report bugs or request features via GitHub Issues
 - **License**: MIT License
 
