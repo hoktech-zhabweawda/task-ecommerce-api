@@ -1,17 +1,26 @@
-# 🛒 E-commerce API - واجهة برمجة التطبيقات للتجارة الإلكترونية
+# 🛒 Task E-commerce API
 
-API REST كامل للتجارة الإلكترونية مع بيانات محلية، مصمم خصيصاً لاختبار مطوري الواجهات الأمامية (Frontend Developers).
+**Complete REST API for E-commerce with Local Data**
 
-## 📋 نظرة عامة
+A comprehensive e-commerce API designed specifically for testing frontend developers' skills. Perfect for React.js, Vue.js, Angular, or any frontend framework.
 
-هذا الـ API يوفر:
-- ✅ REST API كامل للتجارة الإلكترونية مع بيانات محلية
-- ✅ فئات المنتجات (Categories) مع الصور والأوصاف
-- ✅ منتجات شاملة مع تفاصيل كاملة
-- ✅ نظام فلترة متقدم (البحث، السعر، الفئة، الترتيب)
-- ✅ نظام ترقيم الصفحات (Pagination)
-- ✅ إحصائيات المتجر
-- ✅ توثيق تفاعلي شامل
+## 🌟 Live Demo
+- **API Base URL**: `https://task-ecommerce-api.vercel.app`
+- **Interactive Documentation**: `https://task-ecommerce-api.vercel.app/api/docs`
+- **Test Interface**: `https://task-ecommerce-api.vercel.app/test-api.html`
+
+## 📋 Features
+
+This API provides:
+- ✅ **Complete REST API** for e-commerce with local data
+- ✅ **Product Categories** with images and descriptions
+- ✅ **Comprehensive Products** with detailed information
+- ✅ **Advanced Filtering** (search, price, category, sorting)
+- ✅ **Pagination System** for large datasets
+- ✅ **Store Statistics** and analytics
+- ✅ **Interactive Documentation** with examples
+- ✅ **CORS Enabled** for frontend integration
+- ✅ **Arabic & English** content support
 
 ## 🚀 التشغيل السريع
 
@@ -69,11 +78,18 @@ vercel --prod
 2. اختر "Browse" ورفع مجلد المشروع
 3. انتظر حتى يكتمل النشر
 
-### بعد النشر
-سيكون الـ API متاحاً على رابط مثل:
-- `https://your-project-name.vercel.app/api/docs`
-- `https://your-project-name.vercel.app/api/categories`
-- `https://your-project-name.vercel.app/api/products`
+### After Deployment
+The API will be available at:
+- **Documentation**: `https://your-project-name.vercel.app/api/docs`
+- **Categories**: `https://your-project-name.vercel.app/api/categories`
+- **Products**: `https://your-project-name.vercel.app/api/products`
+
+## 🔗 Repository Information
+
+- **GitHub**: `https://github.com/HokTechy/task-ecommerce-api`
+- **Clone**: `git clone https://github.com/HokTechy/task-ecommerce-api.git`
+- **Issues**: Report bugs or request features via GitHub Issues
+- **License**: MIT License
 
 ## 📚 توثيق API
 
