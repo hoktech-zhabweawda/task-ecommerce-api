@@ -131,4 +131,3 @@ fetch('https://task-ecommerce-api.vercel.app/api/products?minPrice=100&maxPrice=
 - **License**: MIT License
 
 Good luck with your task!
-
