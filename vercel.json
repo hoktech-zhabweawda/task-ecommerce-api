@@ -11,12 +11,20 @@
     {
       "src": "test-api.html",
       "use": "@vercel/static"
+    },
+    {
+      "src": "task.html",
+      "use": "@vercel/static"
     }
   ],
   "routes": [
     {
       "src": "/test-api.html",
       "dest": "/test-api.html"
+    },
+    {
+      "src": "/task.html",
+      "dest": "/task.html"
     },
     {
       "src": "/(.*)",
